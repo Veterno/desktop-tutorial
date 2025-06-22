@@ -15,5 +15,5 @@ price=int(input(''))
 #Создание самого обьекта и передача его в переменную 
 apple = Apple(name, color, weight, price)
 
-#Показ обьекта на экране 
+#Показ обьекта на экране 2
 print (apple.name)  
